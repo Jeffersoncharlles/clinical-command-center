@@ -24,6 +24,17 @@ Rather than reproducing a conventional dashboard, the project focuses on challen
 - preserving privacy between public and internal experiences;
 - maintaining consistency across light and dark themes and different screen sizes.
 
+## Technical highlights
+
+- five operational experiences sharing the same design system;
+- domain-oriented organization and page composition;
+- remote data management with TanStack React Query;
+- simulated APIs and real-time synchronization with Mock Service Worker;
+- public contracts anonymized at the data boundary;
+- lazy loading for the main application areas;
+- explicit error, reconnection, and stale-data states;
+- behavioral testing and semantic accessibility practices.
+
 ## Demonstrated experiences
 
 | Experience | Approach |

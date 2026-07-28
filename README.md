@@ -24,6 +24,17 @@ Mais do que reproduzir um dashboard, a proposta trabalha desafios comuns em prod
 - preservar a privacidade entre experiências públicas e internas;
 - manter consistência entre temas claro e escuro e diferentes tamanhos de tela.
 
+## Destaques técnicos
+
+- cinco experiências operacionais compartilhando o mesmo design system;
+- organização por domínio e composição de páginas;
+- dados remotos gerenciados com React Query;
+- APIs e sincronização em tempo real simuladas com MSW;
+- contratos públicos anonimizados na fronteira dos dados;
+- carregamento sob demanda das principais experiências;
+- estados de erro, reconexão e desatualização;
+- testes comportamentais e acessibilidade orientada por semântica.
+
 ## Experiências demonstradas
 
 | Experiência | Abordagem |
