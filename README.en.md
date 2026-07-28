@@ -176,6 +176,12 @@ Internal areas use fictional data only and explicitly indicate when an action ch
 - hospital system integrations;
 - validation for clinical or production use.
 
+## About this repository
+
+This repository showcases the project's architecture, user experience, and interface design.
+
+The source code is intentionally kept private and is not publicly available at this time.
+
 ## Demonstration
 
 The published application link will be added soon.

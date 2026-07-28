@@ -176,6 +176,14 @@ As áreas internas utilizam somente dados fictícios e deixam explícito quando 
 - integração com sistemas hospitalares;
 - validação para uso clínico ou produção.
 
+
+## Sobre este repositório
+
+Este repositório foi criado como uma apresentação técnica e visual do projeto, destacando sua arquitetura, experiência do usuário e decisões de design.
+
+O código-fonte é mantido privado intencionalmente e não está disponível publicamente no momento.
+
+
 ## Demonstração
 
 O link da aplicação publicada será adicionado em breve.
