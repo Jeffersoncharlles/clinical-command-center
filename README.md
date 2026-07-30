@@ -10,6 +10,16 @@
 **Deploy.**
 [Deploy-crinical-command](https://crinical-command.vercel.app/)
 
+> [!WARNING]
+> Todas as rotas estão acessíveis livremente, pois este protótipo não possui autenticação, autorização ou verificação de papéis de acesso. Ao abrir a aplicação, o redirecionamento padrão leva à recepção (`/clinical-reception`).
+
+| Rota | Área |
+| --- | --- |
+| [`/public`](https://crinical-command.vercel.app/public) | Painel público para acompanhar a chamada de pacientes. |
+| [`/clinical-reception`](https://crinical-command.vercel.app/clinical-reception) | Painel da recepção e rota padrão da aplicação. |
+| [`/clinical-nurses`](https://crinical-command.vercel.app/clinical-nurses) | Painel de triagem da enfermagem. |
+| [`/clinical-doctor`](https://crinical-command.vercel.app/clinical-doctor) | Painel de atendimento médico. |
+
 ![Painel demonstrativo da recepção em tema escuro, com indicadores, salas e visão dos atendimentos](screen/clinical-reception.png)
 
 ## Visão geral

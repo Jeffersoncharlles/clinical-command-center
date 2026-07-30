@@ -10,6 +10,16 @@
 **Deployment**
 [Deploy-crinical-command](https://crinical-command.vercel.app/)
 
+> [!WARNING]
+> All routes are freely accessible because this prototype does not implement authentication, authorization, or access-role verification. Opening the application redirects to the reception area (`/clinical-reception`) by default.
+
+| Route | Area |
+| --- | --- |
+| [`/public`](https://crinical-command.vercel.app/public) | Public display for following patient calls. |
+| [`/clinical-reception`](https://crinical-command.vercel.app/clinical-reception) | Reception dashboard and the application's default route. |
+| [`/clinical-nurses`](https://crinical-command.vercel.app/clinical-nurses) | Nursing triage dashboard. |
+| [`/clinical-doctor`](https://crinical-command.vercel.app/clinical-doctor) | Doctor consultation dashboard. |
+
 ![Dark theme reception dashboard with indicators, rooms, and a visit overview](screen/clinical-reception.png)
 
 ## Overview
