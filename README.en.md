@@ -8,7 +8,7 @@
 > This demonstration project is built exclusively with fictional data. It is not intended for clinical or operational use.
 
 **Deployment**
-![Deploy](https://crinical-command-8dyjiww0s-jeffersoncharlles-projects.vercel.app)
+[Deploy-crinical-command](https://crinical-command.vercel.app/)
 
 ![Dark theme reception dashboard with indicators, rooms, and a visit overview](screen/clinical-reception.png)
 
@@ -185,4 +185,4 @@ The source code is intentionally kept private and is not publicly available at t
 
 ## Demonstration
 
-The published application link will be added soon.
+https://crinical-command.vercel.app
