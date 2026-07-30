@@ -7,7 +7,8 @@
 > [!IMPORTANT]
 > Este é um projeto demonstrativo, construído exclusivamente com dados fictícios. Não se destina a uso clínico ou operacional.
 
-**Deploy em breve.**
+**Deploy.**
+![Deploy](https://crinical-command-8dyjiww0s-jeffersoncharlles-projects.vercel.app)
 
 ![Painel demonstrativo da recepção em tema escuro, com indicadores, salas e visão dos atendimentos](screen/clinical-reception.png)
 
